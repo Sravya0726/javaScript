@@ -30,5 +30,5 @@ mul(10,5)
 function div(a,b){
     console.log(a/b)
 }
-div(10,5)
+div(10,5)s
 
